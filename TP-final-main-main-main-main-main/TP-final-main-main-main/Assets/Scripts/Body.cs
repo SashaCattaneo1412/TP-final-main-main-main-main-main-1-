@@ -50,12 +50,7 @@ public class Body : MonoBehaviour
             GrowSnake();
 
 
-            /*
-         //for(int i = 0; i <   -1; i++)
-         //Instantiate(body, transform.position, Quaternion.identity);
-         //Vector3 position =  transform.position ;
-         //  transform.position = Vector3.MoveTowards(transform.position, head.transform.position , 0.2f * Time.deltaTime);
-         */
+          
         }
 
     }
